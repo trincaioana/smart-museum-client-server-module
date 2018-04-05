@@ -5,6 +5,6 @@ Echipa:
 - Irimia Cosmin Iulian
 - Bucevschi Alexandru Gabriel
 - Olariu Madalina
-- Trinca Alexandra Ioana
+- Trinca Ioana-Alexandra
 - Aurora Andreea
 - Luca Iustin
